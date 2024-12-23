@@ -14,3 +14,4 @@ https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 нарисованный смайлик (x,y) -> luminocity  
 Спам/не спам, но интересно?
 [Информация о странах](https://github.com/evangambit/JsonOfCounties)
+
