@@ -4,6 +4,8 @@
 
 Бонус - huggingface
 
+Написать руками линрег
+
 Объяснить пайплайны и файнтюн  
 https://youtu.be/0B5eIE_1vpU?si=j2H1mAm0Amh0VYae
 
@@ -15,3 +17,9 @@ https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 Спам/не спам, но интересно?
 [Информация о странах](https://github.com/evangambit/JsonOfCounties)
 
+# Текст задачи
+
+- что есть машинное обучение
+- математика за линрегом
+- пример работы с sklearn
+- бонус - nn
